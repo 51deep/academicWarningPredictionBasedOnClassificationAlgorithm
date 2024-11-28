@@ -19,7 +19,7 @@
 
 
 ## 运行截图
-![](img/001.jpg)
-![](img/002.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/academicWarningPredictionBasedOnClassificationAlgorithm/img/001.jpg)
+![](https://bs-1329754181.cos.ap-shanghai.myqcloud.com/ssm/academicWarningPredictionBasedOnClassificationAlgorithm/img/002.jpg)
 
 <p>本代码来源于网络,仅供学习参考使用!</p>
